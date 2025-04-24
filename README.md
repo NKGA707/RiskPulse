@@ -35,9 +35,7 @@ Designed to simulate how a market risk analyst would:
 RiskPulse/
 ├── riskpulse.py              # Main script
 ├── risk_data.csv             # Input file with tickers and weights
-├── requirements.txt          # Python dependencies
 ├── charts/                   # Folder to save visual charts
-├── test_pulse.py             # (Optional) Unit tests
 └── README.md                 # This file
 ```
 
